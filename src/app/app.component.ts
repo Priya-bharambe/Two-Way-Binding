@@ -7,4 +7,16 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'TwoWayDataBinding';
+
+  firstname='';
+  lastname='';
+  email='';
+  password='';
+  taddress='';
+  paddress='';
+  city='';
+  state='';
+  pincode='';
+  country='';
+  
 }
